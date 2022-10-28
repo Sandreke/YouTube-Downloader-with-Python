@@ -1,2 +1,2 @@
 # YouTube-Downloader-with-Python
-This repositiy shows how to download any type YT video (shorts and videos) using Python
+This repository shows how to download any type of YT video (shorts and videos) using Python
